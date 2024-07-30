@@ -1,1 +1,1 @@
-grafana/grafana:latest
+prom/node-exporter:v1.8.1
